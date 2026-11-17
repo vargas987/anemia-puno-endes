@@ -1,0 +1,33 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Microdatos crudos del INEI — NO redistribuir (descárgalos del INEI)
+data/raw_endes_descargar_de_inei/*
+!data/raw_endes_descargar_de_inei/.gitkeep
+RECH*.csv
+RECH*.CSV
+*_RAW*.csv
+ENDES_PUNO_ANEMIA_*.xlsx
+endes_puno_6_35_meses (*).csv
+
+# Material interno (no publicar en el repo)
+GUIA_Publicar_GitHub_y_Revista.docx
+*RUBRICA*
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Modelos pesados / salidas grandes
+*.pkl
+*.h5
+*.joblib

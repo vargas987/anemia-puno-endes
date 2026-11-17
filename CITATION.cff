@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usa este repositorio, por favor cítelo como se indica."
+title: "Anemia infantil (6-35 meses) en Puno: evaluacion de modelos de aprendizaje automatico con SHAP sobre microdatos ENDES"
+abstract: >-
+  Evaluacion reproducible, con prevencion de fuga de informacion, de si los
+  microdatos de hogar y antropometria (modulos RECH0 y RECH6) de la ENDES
+  (INEI) 2021-2025 permiten predecir la anemia en ninos de 6 a 35 meses de
+  Puno. Resultado negativo transparente: ningun modelo supero al azar.
+type: software
+authors:
+  - family-names: Chuquitarqui Chura
+    given-names: Crhistian
+  - family-names: Flores Chaina
+    given-names: Jhan Carlos
+  - family-names: Vargas Mamani
+    given-names: Elroy Hernando
+version: "1.0.0"
+date-released: "2026-11-10"
+license: MIT
+keywords:
+  - anemia infantil
+  - aprendizaje automatico
+  - IA explicable
+  - SHAP
+  - ENDES
+  - Puno
+  - resultado negativo

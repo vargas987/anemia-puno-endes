@@ -1,0 +1,34 @@
+﻿codigo,nombre,modulo,tipo,pct_faltante
+HV009,Numero de miembros del hogar,RECH0,numerica,0.0
+HV010,Numero de mujeres de 15 a 49 anios en el hogar,RECH0,numerica,0.0
+HV012,Numero de residentes habituales del hogar,RECH0,numerica,0.0
+HV013,Numero de miembros de facto (de hecho) del hogar,RECH0,numerica,0.0
+HV014,Numero de ninios de 5 anios o menos en el hogar,RECH0,numerica,0.0
+HV025,"Area de residencia (1=urbano, 2=rural)",RECH0,categorica,0.0
+HV026,Tipo de lugar de residencia,RECH0,categorica,0.0
+HV035,Numero de ninios elegibles para antropometria/anemia en el hogar,RECH0,numerica,0.0
+HV041,Numero de ninios elegibles (definicion alternativa),RECH0,numerica,0.0
+HC1,Edad del ninio en meses,RECH6,numerica,0.0
+HC2,"Peso del ninio (kg, x10)",RECH6,numerica,0.0
+HC3,"Talla del ninio (cm, x10)",RECH6,numerica,0.0
+HC4,"Talla para la edad (desviacion estandar, NCHS)",RECH6,numerica,0.0
+HC5,"Talla para la edad (porcentaje de la mediana, NCHS)",RECH6,numerica,0.0
+HC6,"Peso para la edad (desviacion estandar, NCHS)",RECH6,numerica,0.0
+HC7,"Talla para la edad (percentil, NCHS)",RECH6,numerica,0.0
+HC8,"Peso para la talla (percentil, NCHS)",RECH6,numerica,0.0
+HC9,"Peso para la edad (porcentaje de la mediana, NCHS)",RECH6,numerica,0.0
+HC10,"Peso para la talla (porcentaje de la mediana, NCHS)",RECH6,numerica,0.0
+HC11,"Peso para la talla (desviacion estandar / puntaje Z, NCHS)",RECH6,numerica,0.0
+HC12,"Peso para la edad (percentil, NCHS)",RECH6,numerica,0.0
+HC15,Posicion/resultado de la medicion (acostado o de pie),RECH6,categorica,0.0
+HC16,Dia de nacimiento del ninio,RECH6,numerica,0.0
+HC27,"Sexo del ninio (1=hombre, 2=mujer)",RECH6,categorica,0.0
+HC61,Nivel educativo de la madre,RECH6,categorica,0.0
+HC62,Educacion de la madre (anios simples de estudio),RECH6,numerica,1.1
+HC63,Indicador educativo de la madre (detalle),RECH6,numerica,32.8
+HC64,Indicador educativo de la madre (detalle),RECH6,numerica,0.0
+HC68,Nivel educativo de la madre (agrupado),RECH6,categorica,0.9
+HC70,"Talla para la edad (puntaje Z, patron OMS)",RECH6,numerica,0.0
+HC71,"Peso para la edad (puntaje Z, patron OMS)",RECH6,numerica,0.0
+HC72,"Peso para la talla (puntaje Z, patron OMS)",RECH6,numerica,0.0
+HC73,"IMC para la edad (puntaje Z, patron OMS)",RECH6,numerica,0.0
